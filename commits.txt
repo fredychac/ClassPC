@@ -1,0 +1,29 @@
+commit a401e2f489e993b24027a918a21b392985cb36a1
+Author: fredy <fredychac@gmail.com>
+Date:   Fri Sep 24 20:16:58 2021 -0600
+
+    Este commit es para enviarlo por github
+
+commit 424d50177f6941ab9ca09af1578f1165cb8217d2
+Author: fredy <fredychac@gmail.com>
+Date:   Fri Sep 24 19:51:46 2021 -0600
+
+    Se añadio comentario para push
+
+commit 5510a84d25b609adeea7e0829ecec1d43917774d
+Author: fredy <fredychac@gmail.com>
+Date:   Fri Sep 24 14:51:27 2021 -0600
+
+    Añadimos todos los archivos al repositorio
+
+commit e7d7e790fffdd35ce1041dd11a1ea7b36c5205a5
+Author: fredy <fredychac@gmail.com>
+Date:   Fri Sep 24 14:31:09 2021 -0600
+
+    Se añadio un comentario
+
+commit 7748846d3fbd990f4664133ff799174866715e2f
+Author: fredy <fredychac@gmail.com>
+Date:   Fri Sep 24 14:26:11 2021 -0600
+
+    Iniciando repositorio
